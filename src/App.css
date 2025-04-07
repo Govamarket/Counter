@@ -1,0 +1,16 @@
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+ margin: 0 auto;
+  color: #fff;
+  max-width: 100%;
+  width: 500px;
+}
+
+.counter{
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
