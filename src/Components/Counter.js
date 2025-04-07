@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-const Views = () => {
+const Counter = () => {
   const [count, setCount] = useState(0);
 
   const [autoCount, setAutoCount] = useState(0);
@@ -38,4 +38,4 @@ const Views = () => {
   );
 };
 
-export default Views;
+export default Counter;
